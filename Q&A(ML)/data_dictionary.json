@@ -1,0 +1,68 @@
+{
+    "transactions_data.csv": {
+        "description": "Detailed transaction records including amounts, timestamps, and merchant details",
+        "coverage": "Covers transactions throughout the 2010s",
+        "features": [
+            "transaction types",
+            "amounts",
+            "merchant information"
+        ],
+        "usage": "Perfect for analyzing spending patterns and building fraud detection models"
+    },
+    "cards_data.csv": {
+        "description": "Credit and debit card details",
+        "features": [
+            "card limits",
+            "types",
+            "activation dates"
+        ],
+        "linkage": "Links to customer accounts via card_id",
+        "usage": "Essential for understanding customer financial profiles"
+    },
+    "mcc_codes.csv": {
+        "description": "Standard classification codes for business types",
+        "features": [
+            "mcc codes",
+            "descriptions"
+        ],
+        "usage": [
+            "Enables transaction categorization and spending analysis",
+            "Industry-standard MCC codes with descriptions"
+        ]
+    },
+    "train_fraud_labels.json": {
+        "description": "Binary classification labels for transactions",
+        "details": [
+            "Indicates fraudulent vs. legitimate transactions"
+        ],
+        "usage": "Ideal for training supervised fraud detection models"
+    },
+    "users_data.csv": {
+        "description": "Demographic information about customers",
+        "details": [
+            "Account-related details"
+        ],
+        "usage": "Enables customer segmentation and personalized analysis"
+    },
+    "Segment_Data.csv": {
+        "description": "new description"
+    },
+    "student_spending_patterns_updated.csv": {
+        "description": "it is a dataset based on student spending pattern and for calculating their financial health"
+    },
+    "WhatsApp Image 2024-12-01 at 21.44.27_ea2ef907.jpg": {
+        "description": "question paper"
+    },
+    "WhatsApp Image 2024-12-01 at 21.44.27_f30a7931.jpg": {
+        "description": "d.sc,ds;"
+    },
+    "Screenshot 2025-01-07 094714.png": {
+        "description": "Cat\n"
+    },
+    "student_spending_patterns_with_15_percent_null_allowance (1).csv": {
+        "description": "dataset of mothly spendings\n"
+    },
+    "Brazilian-fire-dataset.csv": {
+        "description": "adsa"
+    }
+}

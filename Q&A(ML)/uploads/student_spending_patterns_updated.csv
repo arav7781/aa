@@ -1,0 +1,501 @@
+Age,Gender,Course,Year_of_Study,Monthly_Allowance,Budgeting_Practice,Food_Choices_Influenced_by_Budget,Financial_Advice_Source,Preferred_Shopping_Type,Part_Time_Job
+23,Female,B.Com,3rd,,Yes,Yes,Through Parents,Any,Yes
+21,Female,Masters,2nd,8000-8999,No,No,Online Course,Offline,No
+24,Female,Others,1st,5000-5999,No,No,Online Course,Online,Yes
+22,Female,Others,4th,,No,No,Online Course,Any,Yes
+19,Male,BTech,4th,4000-4999,No,No,Online Course,Online,No
+19,Male,BTech,3rd,5000-5999,No,No,Online Course,Online,Yes
+23,Female,BTech,4th,2000-2999,No,No,Through Parents,Online,No
+22,Male,Others,1st,3000-3999,No,No,Through Parents,Any,No
+24,Male,Masters,2nd,8000-8999,Yes,No,Online Course,Offline,No
+20,Male,BA,1st,6000-6999,Yes,No,Through Parents,Any,Yes
+23,Female,BA,3rd,,No,No,Online Course,Online,Yes
+19,Female,Masters,3rd,3000-3999,Yes,Yes,YouTube,Any,No
+19,Female,BTech,4th,3000-3999,No,No,None,Any,No
+19,Other,B.Com,4th,7000-7999,No,No,Online Course,Any,No
+20,Male,Others,3rd,5000-5999,No,No,YouTube,Offline,No
+19,Male,B.Com,2nd,3000-3999,Yes,No,None,Online,No
+24,Male,Masters,2nd,4000-4999,Yes,No,Online Course,Any,No
+21,Male,Masters,1st,,Yes,Yes,Online Course,Online,Yes
+22,Male,BTech,2nd,1000-1999,No,No,Through Parents,Offline,Yes
+21,Female,BA,4th,3000-3999,No,Yes,None,Online,No
+23,Male,Others,3rd,7000-7999,No,No,Through Parents,Online,No
+21,Male,BTech,3rd,6000-6999,Yes,No,None,Any,No
+22,Male,BA,2nd,4000-4999,No,No,YouTube,Any,Yes
+23,Male,BA,2nd,8000-8999,Yes,No,None,Online,No
+24,Male,BTech,2nd,3000-3999,Yes,No,Through Parents,Offline,
+21,Female,Others,4th,9000-10000,No,No,Online Course,Any,No
+21,Male,B.Com,4th,1000-1999,No,No,Through Parents,Offline,Yes
+21,Male,BA,3rd,5000-5999,Yes,Yes,Online Course,Online,Yes
+20,Male,BTech,1st,,Yes,Yes,YouTube,Online,Yes
+23,Male,BTech,2nd,3000-3999,No,Yes,YouTube,Offline,Yes
+23,Male,Others,4th,1000-1999,Yes,No,Online Course,,Yes
+23,Female,B.Com,3rd,4000-4999,No,No,YouTube,Offline,No
+24,Female,Others,2nd,8000-8999,Yes,No,YouTube,Offline,No
+20,Female,BA,2nd,,No,No,Through Parents,Online,No
+19,Female,BA,3rd,8000-8999,No,No,YouTube,,Yes
+21,Male,BA,3rd,8000-8999,No,No,Through Parents,Offline,No
+20,Male,B.Com,2nd,8000-8999,No,No,None,Any,
+24,Male,B.Com,1st,1000-1999,No,Yes,Through Parents,Any,Yes
+20,Male,B.Com,1st,9000-10000,No,No,None,Any,No
+24,Female,Others,3rd,3000-3999,No,Yes,None,Any,No
+24,Male,Others,4th,6000-6999,No,No,None,Any,
+18,Male,BTech,2nd,1000-1999,No,No,Through Parents,,No
+22,Female,BTech,1st,8000-8999,No,No,YouTube,Any,No
+23,Female,B.Com,3rd,6000-6999,Yes,No,Through Parents,Any,Yes
+19,Other,BTech,4th,8000-8999,No,No,Online Course,Any,No
+22,Male,B.Com,4th,,Yes,No,Online Course,Offline,Yes
+18,Male,BA,2nd,5000-5999,No,Yes,YouTube,Offline,No
+22,Male,BTech,3rd,5000-5999,No,No,None,Online,No
+22,Male,Others,1st,1000-1999,No,No,None,Any,No
+24,Male,BTech,3rd,6000-6999,No,No,None,,Yes
+21,Male,Others,4th,6000-6999,No,No,Online Course,,No
+24,Female,Others,4th,5000-5999,Yes,Yes,Through Parents,Offline,No
+21,Male,Masters,3rd,4000-4999,No,Yes,YouTube,Online,No
+22,Female,BA,2nd,8000-8999,No,No,YouTube,Any,No
+21,Female,Masters,4th,8000-8999,No,No,None,,No
+21,Male,Masters,1st,,No,Yes,None,Any,Yes
+23,Male,Masters,4th,6000-6999,No,No,Online Course,Any,No
+22,Male,Masters,4th,4000-4999,No,Yes,None,Online,No
+23,Female,BA,2nd,4000-4999,Yes,Yes,YouTube,Online,Yes
+18,Male,B.Com,1st,,No,No,Through Parents,Offline,No
+21,Male,Masters,2nd,1000-1999,Yes,No,Through Parents,Offline,No
+18,Female,Others,2nd,3000-3999,No,No,YouTube,Online,Yes
+23,Female,BTech,3rd,8000-8999,Yes,No,YouTube,,No
+18,Female,Others,1st,8000-8999,No,No,Online Course,Any,No
+19,Male,Masters,2nd,,No,No,None,Any,No
+20,Male,BA,2nd,6000-6999,No,No,Online Course,Any,Yes
+21,Male,B.Com,4th,5000-5999,Yes,Yes,Through Parents,Online,No
+21,Male,Others,4th,7000-7999,No,No,YouTube,Any,No
+19,Male,Others,2nd,1000-1999,Yes,No,None,Online,No
+21,Female,Others,2nd,3000-3999,Yes,Yes,Online Course,Offline,Yes
+23,Female,Others,4th,,No,No,None,Offline,Yes
+18,Male,B.Com,2nd,1000-1999,No,No,Online Course,Online,
+24,Male,Others,2nd,4000-4999,No,Yes,YouTube,Online,No
+21,Female,BTech,1st,5000-5999,No,No,YouTube,Offline,Yes
+24,Female,BA,1st,5000-5999,No,Yes,YouTube,Offline,No
+23,Male,Masters,3rd,,No,Yes,Online Course,Online,No
+21,Male,BA,2nd,,No,No,YouTube,Online,No
+24,Male,Others,1st,,No,Yes,Through Parents,,Yes
+20,Female,B.Com,1st,1000-1999,No,No,Online Course,Any,No
+22,Male,Masters,4th,1000-1999,Yes,No,Online Course,,
+23,Male,B.Com,2nd,1000-1999,No,Yes,Online Course,Any,Yes
+22,Male,BTech,4th,6000-6999,No,No,None,Any,Yes
+22,Female,Masters,2nd,8000-8999,No,No,Online Course,Any,No
+21,Male,BA,4th,1000-1999,No,Yes,Through Parents,,No
+19,Female,Others,4th,8000-8999,Yes,No,YouTube,Any,No
+19,Female,B.Com,4th,5000-5999,No,Yes,YouTube,Offline,No
+19,Male,B.Com,2nd,8000-8999,No,No,Online Course,Offline,Yes
+23,Male,Others,1st,8000-8999,No,No,Online Course,Any,No
+20,Female,B.Com,3rd,4000-4999,Yes,No,Through Parents,,Yes
+24,Male,BA,1st,6000-6999,Yes,No,Through Parents,,Yes
+18,Male,BTech,1st,9000-10000,No,No,Through Parents,Offline,No
+18,Other,BTech,1st,8000-8999,Yes,No,None,Any,No
+18,Male,BA,1st,1000-1999,No,No,YouTube,,No
+21,Male,BTech,1st,6000-6999,Yes,No,Through Parents,Any,No
+19,Female,BTech,1st,9000-10000,No,No,YouTube,Any,No
+21,Male,BA,3rd,2000-2999,Yes,Yes,YouTube,Online,
+23,Male,B.Com,3rd,7000-7999,Yes,No,None,Online,No
+22,Male,BTech,1st,6000-6999,No,No,YouTube,Any,No
+23,Other,Masters,4th,9000-10000,Yes,No,Through Parents,Online,No
+18,Female,B.Com,2nd,2000-2999,No,No,YouTube,Online,Yes
+18,Male,BTech,3rd,1000-1999,No,Yes,YouTube,Any,No
+21,Male,BA,4th,6000-6999,No,No,Online Course,Any,No
+23,Female,BA,2nd,5000-5999,No,Yes,YouTube,,No
+19,Female,BA,4th,5000-5999,No,No,YouTube,Any,No
+19,Female,B.Com,2nd,,Yes,Yes,Through Parents,Offline,No
+24,Male,Masters,4th,5000-5999,No,No,None,,Yes
+19,Female,Masters,1st,8000-8999,Yes,No,Through Parents,Any,
+23,Female,BA,1st,2000-2999,Yes,No,YouTube,Offline,No
+24,Male,BTech,2nd,8000-8999,No,No,Through Parents,Any,No
+21,Female,Others,2nd,9000-10000,Yes,No,None,Any,No
+18,Female,BA,2nd,3000-3999,No,Yes,YouTube,Offline,Yes
+23,Female,BTech,4th,4000-4999,No,No,YouTube,Offline,No
+19,Male,Masters,1st,8000-8999,Yes,No,Through Parents,Any,
+24,Male,Others,2nd,8000-8999,No,No,YouTube,,No
+18,Male,Others,2nd,3000-3999,No,No,YouTube,Offline,No
+21,Male,BA,2nd,3000-3999,Yes,No,YouTube,Online,Yes
+18,Male,Masters,2nd,,Yes,Yes,None,Online,No
+20,Female,B.Com,3rd,5000-5999,No,No,Online Course,Any,No
+21,Male,Masters,4th,2000-2999,No,Yes,Through Parents,Online,No
+18,Male,BA,2nd,,No,Yes,Through Parents,Online,
+18,Male,B.Com,2nd,3000-3999,No,No,Through Parents,Any,Yes
+18,Male,BTech,1st,,Yes,Yes,Through Parents,Offline,No
+23,Female,B.Com,2nd,,No,Yes,YouTube,Any,Yes
+22,Male,B.Com,2nd,,No,Yes,YouTube,Online,
+23,Male,BTech,1st,3000-3999,No,Yes,Through Parents,Any,Yes
+20,Male,Masters,3rd,9000-10000,No,No,Online Course,Offline,No
+21,Female,BTech,1st,5000-5999,No,Yes,Through Parents,Any,
+24,Female,BTech,1st,2000-2999,No,No,YouTube,Any,
+24,Female,B.Com,4th,,No,No,Online Course,Online,No
+24,Male,B.Com,2nd,6000-6999,No,No,YouTube,Any,Yes
+21,Female,Masters,2nd,2000-2999,No,Yes,YouTube,Online,No
+22,Male,BTech,4th,,No,No,YouTube,Online,Yes
+18,Male,BA,3rd,6000-6999,No,No,Online Course,Any,No
+23,Male,Masters,4th,6000-6999,No,No,Online Course,Any,No
+24,Female,BA,4th,1000-1999,Yes,Yes,YouTube,Any,No
+23,Male,BTech,3rd,3000-3999,No,Yes,None,Offline,No
+20,Male,Masters,4th,,Yes,Yes,None,Online,No
+22,Female,BA,2nd,7000-7999,No,No,Online Course,Any,No
+21,Female,B.Com,4th,8000-8999,No,No,YouTube,Any,No
+21,Male,B.Com,3rd,6000-6999,No,No,YouTube,Any,No
+19,Female,Others,1st,1000-1999,No,No,None,Offline,No
+24,Male,Masters,1st,7000-7999,Yes,No,Online Course,Any,
+18,Female,BTech,4th,5000-5999,No,Yes,Online Course,Any,No
+19,Female,BA,4th,4000-4999,No,Yes,Through Parents,Any,No
+21,Male,BA,3rd,,No,Yes,YouTube,Any,No
+24,Male,Masters,3rd,,Yes,No,Online Course,Offline,No
+20,Female,BTech,4th,1000-1999,Yes,No,YouTube,Online,No
+22,Male,BA,2nd,5000-5999,No,No,YouTube,Any,No
+21,Male,Masters,4th,7000-7999,No,No,YouTube,Any,No
+20,Male,BA,1st,,No,No,Through Parents,Offline,No
+20,Male,BA,2nd,,Yes,No,None,Any,No
+23,Female,Masters,1st,,Yes,No,None,Online,No
+23,Female,BTech,1st,8000-8999,No,No,YouTube,Any,No
+24,Female,B.Com,3rd,7000-7999,Yes,No,YouTube,Any,No
+21,Female,Others,3rd,4000-4999,No,No,Through Parents,Offline,No
+22,Male,BA,2nd,3000-3999,No,Yes,YouTube,Offline,No
+21,Male,BTech,1st,6000-6999,No,No,YouTube,Any,Yes
+21,Male,Masters,1st,,No,No,YouTube,Offline,No
+22,Other,Others,4th,5000-5999,No,No,YouTube,Online,No
+21,Male,BA,2nd,,No,No,Through Parents,,No
+18,Male,BTech,2nd,5000-5999,No,Yes,None,Online,No
+22,Male,Others,2nd,,No,Yes,Online Course,,Yes
+24,Female,Masters,2nd,4000-4999,Yes,Yes,YouTube,Any,Yes
+18,Male,Others,2nd,4000-4999,No,Yes,Through Parents,Any,
+22,Male,Others,2nd,6000-6999,No,No,YouTube,Any,Yes
+18,Female,Masters,1st,8000-8999,No,No,Online Course,Any,No
+20,Male,BTech,1st,5000-5999,No,No,None,Offline,Yes
+24,Female,B.Com,4th,8000-8999,No,No,YouTube,Online,No
+19,Female,Others,3rd,9000-10000,No,No,Through Parents,Any,No
+22,Male,Masters,3rd,8000-8999,No,No,Through Parents,Any,No
+24,Male,Masters,2nd,5000-5999,Yes,Yes,YouTube,Any,No
+18,Male,Others,4th,,No,Yes,Through Parents,Online,No
+20,Female,Masters,2nd,4000-4999,Yes,No,None,Any,No
+21,Male,B.Com,1st,6000-6999,Yes,No,YouTube,Any,No
+24,Male,Others,4th,3000-3999,No,No,Online Course,Any,Yes
+22,Female,Others,3rd,7000-7999,Yes,No,Online Course,Any,No
+19,Male,Others,4th,6000-6999,No,No,YouTube,Online,No
+22,Male,BTech,1st,8000-8999,No,No,YouTube,Any,No
+24,Male,BTech,3rd,6000-6999,Yes,No,None,Any,No
+20,Male,BTech,2nd,1000-1999,No,Yes,None,Any,No
+20,Male,BTech,4th,5000-5999,Yes,Yes,Through Parents,Any,
+22,Male,Others,4th,1000-1999,No,No,Online Course,Any,No
+22,Female,BTech,3rd,5000-5999,No,No,Through Parents,Any,No
+21,Male,Others,2nd,9000-10000,No,No,YouTube,Any,No
+24,Female,B.Com,1st,4000-4999,Yes,Yes,Through Parents,Online,No
+22,Male,BTech,2nd,4000-4999,No,Yes,YouTube,Offline,No
+19,Female,Masters,4th,1000-1999,No,Yes,Online Course,Any,No
+23,Male,B.Com,3rd,2000-2999,No,No,YouTube,Any,No
+21,Female,BA,4th,,No,No,Through Parents,Online,
+22,Male,Others,3rd,8000-8999,No,No,None,Online,Yes
+22,Female,B.Com,1st,4000-4999,No,No,None,Online,No
+19,Female,Masters,2nd,6000-6999,No,No,Through Parents,Any,No
+21,Female,B.Com,4th,5000-5999,No,No,YouTube,Any,Yes
+19,Female,Masters,2nd,4000-4999,No,Yes,Through Parents,Offline,Yes
+18,Male,Others,1st,6000-6999,No,No,Online Course,,No
+23,Female,Masters,2nd,8000-8999,No,No,YouTube,Any,No
+23,Female,BTech,1st,8000-8999,No,No,Through Parents,Any,Yes
+20,Female,Others,3rd,8000-8999,No,No,Online Course,Any,No
+24,Female,BTech,4th,,No,Yes,Online Course,Any,Yes
+24,Female,B.Com,4th,,No,Yes,YouTube,Online,No
+22,Female,B.Com,3rd,,No,No,Through Parents,Online,No
+24,Male,BA,3rd,1000-1999,Yes,Yes,None,Offline,No
+18,Male,BTech,4th,1000-1999,No,No,YouTube,Offline,Yes
+19,Female,BA,4th,,No,No,YouTube,Online,Yes
+21,Male,Others,3rd,1000-1999,No,Yes,YouTube,Any,No
+18,Male,Others,2nd,1000-1999,Yes,No,Online Course,Online,Yes
+19,Female,BTech,2nd,9000-10000,No,No,Through Parents,Offline,No
+23,Male,Others,2nd,3000-3999,No,Yes,None,Offline,No
+18,Female,BA,1st,,Yes,No,Online Course,Online,No
+23,Female,Masters,2nd,8000-8999,Yes,No,None,Any,Yes
+19,Male,Others,2nd,4000-4999,No,Yes,Online Course,Any,Yes
+18,Male,Masters,3rd,6000-6999,Yes,No,Online Course,Any,No
+24,Male,Masters,3rd,,Yes,Yes,YouTube,Online,No
+22,Male,Others,3rd,7000-7999,No,No,YouTube,Any,No
+19,Male,BA,4th,7000-7999,No,No,Online Course,Any,No
+21,Male,BTech,4th,5000-5999,Yes,Yes,None,Any,No
+18,Male,BA,2nd,1000-1999,No,Yes,None,Online,Yes
+19,Female,BTech,4th,7000-7999,Yes,No,YouTube,Any,No
+24,Male,BA,1st,,Yes,Yes,Online Course,Offline,Yes
+23,Female,Others,3rd,3000-3999,No,No,YouTube,Offline,No
+20,Female,BTech,1st,5000-5999,Yes,Yes,Online Course,Any,No
+22,Male,BTech,1st,8000-8999,No,No,YouTube,Any,No
+23,Male,B.Com,1st,9000-10000,Yes,No,None,Any,No
+24,Male,BA,3rd,6000-6999,No,No,Through Parents,Any,No
+21,Male,Masters,4th,1000-1999,Yes,No,Through Parents,Offline,No
+22,Male,BA,1st,4000-4999,No,No,YouTube,Offline,No
+24,Male,Others,1st,3000-3999,No,Yes,YouTube,Any,No
+18,Male,Masters,4th,1000-1999,No,No,None,Any,Yes
+20,Male,B.Com,4th,8000-8999,No,No,Online Course,Any,Yes
+21,Male,B.Com,3rd,7000-7999,No,No,YouTube,Any,No
+19,Male,B.Com,4th,5000-5999,No,No,YouTube,Offline,No
+21,Female,Masters,1st,6000-6999,Yes,No,None,Any,No
+23,Male,Others,2nd,5000-5999,No,Yes,None,Any,Yes
+20,Female,BTech,3rd,7000-7999,No,No,YouTube,Any,No
+19,Male,B.Com,4th,,No,Yes,YouTube,Any,Yes
+22,Female,B.Com,3rd,7000-7999,Yes,No,Through Parents,Any,No
+20,Male,BTech,4th,4000-4999,Yes,No,YouTube,Online,Yes
+22,Other,Others,1st,3000-3999,Yes,Yes,Through Parents,Online,No
+19,Female,Masters,4th,5000-5999,No,No,YouTube,Offline,Yes
+24,Male,Masters,2nd,5000-5999,No,Yes,YouTube,Any,No
+18,Female,Others,1st,,No,No,None,,
+19,Female,Masters,2nd,7000-7999,Yes,No,YouTube,Any,No
+19,Other,B.Com,2nd,7000-7999,No,No,Through Parents,Any,No
+24,Male,B.Com,2nd,7000-7999,No,No,YouTube,Offline,Yes
+18,Male,B.Com,4th,6000-6999,Yes,No,YouTube,Any,No
+21,Male,BTech,4th,9000-10000,Yes,No,Through Parents,Any,No
+21,Female,B.Com,3rd,5000-5999,Yes,No,Through Parents,,No
+24,Male,BTech,1st,5000-5999,No,Yes,None,,Yes
+21,Male,Masters,2nd,2000-2999,No,No,YouTube,Offline,
+24,Female,BA,3rd,4000-4999,No,No,YouTube,Online,No
+21,Male,Masters,2nd,,No,No,Through Parents,Any,No
+22,Female,Others,1st,7000-7999,No,No,Through Parents,Any,No
+20,Male,Others,1st,8000-8999,Yes,No,Through Parents,Any,No
+18,Male,Masters,1st,6000-6999,No,No,Online Course,Any,Yes
+21,Female,Masters,4th,3000-3999,No,No,YouTube,Offline,No
+19,Female,BTech,1st,4000-4999,Yes,Yes,YouTube,,
+21,Female,Others,1st,8000-8999,No,No,Online Course,Any,No
+22,Male,Others,3rd,,Yes,No,YouTube,Online,No
+23,Male,BTech,3rd,5000-5999,No,No,Through Parents,,No
+21,Female,Others,2nd,5000-5999,Yes,Yes,None,Online,No
+22,Male,B.Com,1st,,No,Yes,YouTube,,Yes
+20,Female,B.Com,1st,5000-5999,No,Yes,Online Course,Offline,Yes
+24,Female,BTech,3rd,6000-6999,No,No,None,Any,No
+18,Male,Masters,3rd,7000-7999,No,No,YouTube,Any,No
+23,Male,BTech,2nd,1000-1999,Yes,No,Online Course,Offline,No
+24,Male,B.Com,4th,6000-6999,No,No,Online Course,,Yes
+21,Female,BA,4th,,No,No,Through Parents,,Yes
+20,Male,BTech,3rd,3000-3999,Yes,No,YouTube,Any,No
+20,Female,Masters,3rd,,No,Yes,None,,No
+22,Female,BTech,2nd,9000-10000,No,No,Through Parents,Any,No
+24,Male,Masters,2nd,,No,No,YouTube,Online,No
+24,Male,BTech,4th,3000-3999,No,Yes,Through Parents,Any,No
+23,Male,Masters,3rd,,Yes,No,YouTube,Offline,No
+18,Male,Others,1st,4000-4999,No,Yes,None,Offline,No
+20,Male,Others,1st,7000-7999,No,No,Online Course,Any,No
+19,Male,B.Com,1st,,Yes,Yes,None,Online,Yes
+22,Female,B.Com,1st,8000-8999,No,No,Through Parents,Any,No
+23,Female,BTech,1st,3000-3999,No,No,Online Course,Offline,Yes
+23,Male,Masters,4th,9000-10000,Yes,No,None,,No
+23,Male,Others,1st,1000-1999,No,No,Through Parents,Any,Yes
+21,Female,B.Com,1st,6000-6999,No,No,YouTube,Any,No
+23,Male,BA,2nd,1000-1999,No,No,Online Course,Any,Yes
+23,Female,Others,1st,2000-2999,Yes,No,YouTube,Offline,No
+23,Male,Masters,2nd,,No,Yes,YouTube,,No
+22,Female,Masters,2nd,7000-7999,No,No,YouTube,Any,No
+22,Female,BTech,1st,8000-8999,No,No,Online Course,Any,No
+22,Female,Others,2nd,8000-8999,No,No,Online Course,Any,No
+21,Male,B.Com,2nd,5000-5999,Yes,Yes,None,Any,No
+23,Female,BA,2nd,5000-5999,No,No,Online Course,Offline,No
+21,Female,Others,2nd,7000-7999,No,No,Online Course,Any,No
+18,Male,B.Com,2nd,6000-6999,No,No,Through Parents,Any,No
+20,Female,BA,1st,4000-4999,No,Yes,YouTube,Offline,No
+22,Male,BA,1st,6000-6999,No,No,None,Online,No
+22,Female,Masters,4th,,No,No,None,Offline,No
+20,Male,Masters,2nd,,Yes,No,None,Any,Yes
+18,Male,Masters,2nd,6000-6999,Yes,No,Through Parents,Any,No
+18,Female,B.Com,1st,3000-3999,Yes,Yes,None,Online,No
+20,Male,B.Com,4th,3000-3999,Yes,Yes,YouTube,Online,No
+22,Female,Others,4th,7000-7999,No,No,None,Any,No
+19,Female,Masters,3rd,,Yes,No,Through Parents,Any,Yes
+24,Male,BTech,2nd,4000-4999,No,No,None,Offline,No
+24,Male,Masters,3rd,6000-6999,Yes,No,Online Course,Any,No
+19,Male,B.Com,3rd,1000-1999,Yes,Yes,Online Course,Any,No
+23,Female,Masters,3rd,7000-7999,No,No,YouTube,Any,No
+22,Female,BA,2nd,1000-1999,No,Yes,Online Course,Online,Yes
+24,Other,Others,2nd,4000-4999,Yes,Yes,Through Parents,Any,No
+19,Male,BTech,2nd,8000-8999,Yes,No,Through Parents,Offline,No
+23,Male,BTech,1st,6000-6999,No,No,Online Course,Any,No
+18,Male,BA,1st,3000-3999,Yes,No,None,Offline,No
+19,Female,BA,2nd,8000-8999,No,No,Through Parents,Any,No
+18,Male,Others,3rd,6000-6999,No,No,None,Any,
+22,Male,Others,3rd,4000-4999,No,Yes,Through Parents,Offline,Yes
+19,Male,BTech,4th,3000-3999,No,Yes,Through Parents,Offline,No
+21,Male,Masters,1st,1000-1999,No,No,Online Course,Offline,No
+20,Male,Others,3rd,,No,Yes,Online Course,,
+23,Male,BTech,1st,4000-4999,Yes,No,YouTube,Online,No
+19,Male,BA,4th,3000-3999,No,Yes,YouTube,,No
+18,Male,B.Com,3rd,8000-8999,No,No,YouTube,Any,No
+21,Male,B.Com,2nd,7000-7999,No,No,Online Course,Any,No
+24,Male,B.Com,1st,8000-8999,No,No,None,,No
+24,Female,Masters,4th,6000-6999,No,No,None,Online,No
+22,Male,BA,4th,,No,No,Through Parents,Online,No
+24,Male,Masters,2nd,6000-6999,Yes,No,Through Parents,Any,No
+20,Female,Others,2nd,7000-7999,No,No,Online Course,Any,No
+19,Male,B.Com,4th,6000-6999,No,No,None,Any,No
+19,Male,BTech,4th,4000-4999,No,Yes,YouTube,Any,Yes
+18,Female,Masters,1st,6000-6999,No,No,YouTube,Any,No
+19,Female,Masters,1st,7000-7999,No,No,Through Parents,Offline,
+20,Female,Others,4th,5000-5999,No,Yes,Through Parents,Online,No
+23,Female,Masters,2nd,3000-3999,No,No,None,Online,Yes
+23,Male,Others,2nd,9000-10000,Yes,No,Online Course,Any,No
+20,Male,Others,3rd,3000-3999,Yes,Yes,Through Parents,Any,No
+19,Male,BA,2nd,1000-1999,Yes,No,YouTube,Online,No
+22,Male,BA,2nd,,No,Yes,Through Parents,Any,Yes
+19,Male,Others,2nd,6000-6999,Yes,No,None,Any,No
+21,Female,B.Com,4th,4000-4999,No,Yes,YouTube,Offline,No
+19,Male,BA,4th,,No,Yes,Online Course,Online,No
+18,Female,BTech,1st,9000-10000,Yes,No,None,Any,No
+18,Male,Masters,1st,3000-3999,No,Yes,YouTube,Online,Yes
+21,Male,BA,1st,,No,Yes,None,Any,No
+20,Male,BTech,2nd,3000-3999,No,No,YouTube,,No
+24,Male,Masters,4th,,Yes,Yes,Through Parents,Offline,No
+19,Male,BA,3rd,4000-4999,No,No,None,Any,No
+19,Female,BA,4th,5000-5999,No,Yes,YouTube,Offline,No
+21,Male,BA,2nd,5000-5999,No,Yes,YouTube,Online,Yes
+19,Male,BTech,1st,8000-8999,No,No,Through Parents,Any,No
+23,Female,Masters,4th,,Yes,No,Online Course,Online,No
+19,Female,BA,4th,7000-7999,No,No,YouTube,Any,No
+23,Male,BA,1st,4000-4999,Yes,Yes,Through Parents,,Yes
+24,Male,BA,3rd,6000-6999,Yes,No,None,Any,No
+22,Male,Masters,1st,4000-4999,Yes,Yes,Online Course,,Yes
+21,Female,BTech,4th,5000-5999,No,Yes,YouTube,Online,No
+18,Female,Others,4th,5000-5999,No,No,YouTube,,Yes
+21,Female,Others,3rd,5000-5999,No,Yes,Through Parents,Offline,No
+20,Female,B.Com,1st,4000-4999,No,Yes,YouTube,Offline,No
+19,Male,BTech,1st,5000-5999,No,Yes,Through Parents,Online,Yes
+24,Male,B.Com,2nd,7000-7999,Yes,No,Online Course,Any,No
+21,Male,BA,4th,,Yes,Yes,YouTube,Any,No
+21,Male,BA,3rd,3000-3999,Yes,Yes,Through Parents,Online,No
+21,Male,BTech,1st,8000-8999,No,No,Through Parents,Any,No
+22,Male,Others,1st,2000-2999,No,Yes,None,Any,No
+23,Male,Masters,3rd,1000-1999,No,Yes,None,,No
+18,Female,B.Com,2nd,3000-3999,No,No,YouTube,Online,No
+18,Male,BTech,2nd,,Yes,No,None,Online,No
+24,Male,Others,1st,,No,No,YouTube,Online,No
+20,Female,Others,4th,4000-4999,No,Yes,None,Any,Yes
+19,Male,B.Com,3rd,5000-5999,No,No,None,Online,Yes
+23,Female,Others,2nd,5000-5999,No,Yes,None,Any,Yes
+22,Male,BA,2nd,6000-6999,Yes,No,YouTube,Any,Yes
+23,Male,BA,3rd,8000-8999,No,No,Online Course,,No
+18,Male,Others,1st,,No,No,Online Course,Offline,No
+19,Female,BA,3rd,5000-5999,No,Yes,Online Course,Offline,Yes
+18,Male,Others,1st,,Yes,No,None,Offline,No
+18,Female,BA,4th,5000-5999,No,Yes,YouTube,,Yes
+23,Male,Others,4th,3000-3999,No,No,YouTube,Offline,No
+24,Female,Masters,1st,,No,Yes,YouTube,Any,No
+22,Female,Others,2nd,5000-5999,No,No,Through Parents,Offline,Yes
+23,Male,Masters,4th,5000-5999,Yes,No,None,Online,No
+22,Male,Masters,4th,8000-8999,No,No,Online Course,Any,No
+24,Male,BA,1st,5000-5999,Yes,Yes,Through Parents,Any,No
+23,Male,B.Com,2nd,1000-1999,No,Yes,Through Parents,Online,No
+20,Male,B.Com,1st,5000-5999,No,No,Through Parents,Any,No
+23,Male,BTech,4th,1000-1999,Yes,Yes,Online Course,Online,No
+20,Male,BTech,2nd,3000-3999,No,Yes,YouTube,Offline,Yes
+20,Male,BA,2nd,4000-4999,Yes,Yes,YouTube,Online,Yes
+24,Other,BTech,4th,4000-4999,No,Yes,Online Course,Any,No
+21,Male,B.Com,1st,3000-3999,No,Yes,Through Parents,Any,Yes
+23,Male,Others,1st,2000-2999,No,Yes,YouTube,Offline,No
+18,Male,BTech,4th,9000-10000,No,No,Online Course,Any,No
+20,Female,B.Com,3rd,6000-6999,No,No,Through Parents,Any,
+20,Female,Masters,2nd,6000-6999,Yes,No,Through Parents,Any,No
+23,Female,B.Com,2nd,4000-4999,No,Yes,Through Parents,Offline,Yes
+22,Male,BA,2nd,5000-5999,Yes,No,None,Offline,No
+24,Male,Masters,4th,,No,No,YouTube,Online,Yes
+22,Female,Others,3rd,,No,Yes,None,Online,No
+20,Female,Masters,4th,4000-4999,No,Yes,YouTube,Any,No
+19,Other,Masters,4th,3000-3999,Yes,No,YouTube,Any,No
+19,Male,BTech,1st,4000-4999,Yes,No,Through Parents,Online,
+22,Male,BA,1st,4000-4999,No,Yes,Through Parents,Any,Yes
+20,Female,Masters,2nd,1000-1999,No,No,YouTube,Offline,Yes
+21,Male,B.Com,1st,1000-1999,No,Yes,None,Any,No
+18,Male,BTech,2nd,5000-5999,No,Yes,YouTube,Offline,
+18,Male,BA,2nd,1000-1999,No,Yes,YouTube,Online,No
+19,Female,BTech,2nd,5000-5999,No,No,Through Parents,Offline,
+19,Female,Masters,1st,3000-3999,No,No,Through Parents,Offline,No
+18,Male,B.Com,2nd,5000-5999,No,No,Online Course,Offline,No
+24,Female,Others,1st,1000-1999,No,Yes,None,Online,No
+20,Female,Masters,2nd,8000-8999,No,No,Through Parents,Any,No
+24,Female,Others,2nd,5000-5999,No,No,Through Parents,Online,No
+19,Male,BA,4th,1000-1999,Yes,No,None,Any,No
+18,Female,Masters,1st,4000-4999,No,No,YouTube,Online,No
+21,Male,Others,3rd,6000-6999,No,No,None,Any,Yes
+20,Male,B.Com,3rd,2000-2999,No,No,Through Parents,Offline,No
+20,Female,Masters,4th,8000-8999,Yes,No,Online Course,Any,No
+23,Male,Masters,2nd,4000-4999,No,Yes,Through Parents,Any,No
+24,Male,BA,3rd,6000-6999,No,No,Online Course,Any,
+22,Female,Others,4th,5000-5999,Yes,Yes,YouTube,Offline,Yes
+21,Male,BA,3rd,,No,No,Through Parents,Offline,No
+22,Male,Masters,2nd,6000-6999,No,No,Online Course,Online,Yes
+23,Male,Masters,3rd,6000-6999,No,No,None,Offline,
+22,Male,B.Com,2nd,,No,No,Online Course,Online,No
+21,Male,B.Com,2nd,5000-5999,Yes,No,Online Course,Online,Yes
+21,Male,BTech,2nd,4000-4999,No,Yes,None,Any,No
+20,Male,BTech,3rd,4000-4999,No,No,YouTube,Any,No
+23,Male,B.Com,4th,1000-1999,Yes,No,YouTube,,No
+22,Male,Others,1st,5000-5999,No,No,Online Course,Offline,No
+18,Male,B.Com,2nd,3000-3999,No,Yes,Through Parents,Offline,Yes
+23,Male,Masters,1st,5000-5999,No,Yes,Online Course,Offline,No
+18,Female,BTech,3rd,9000-10000,No,No,Online Course,Any,No
+20,Female,BTech,4th,9000-10000,Yes,No,None,Any,
+21,Male,BA,1st,8000-8999,Yes,No,None,,Yes
+18,Female,BTech,4th,5000-5999,No,No,YouTube,Offline,No
+23,Other,Masters,4th,8000-8999,No,No,YouTube,Any,No
+18,Male,BTech,3rd,7000-7999,No,No,YouTube,Any,No
+21,Male,BA,1st,5000-5999,No,Yes,YouTube,Offline,No
+22,Female,BTech,3rd,3000-3999,No,No,None,Online,No
+18,Male,Masters,3rd,,No,No,YouTube,Offline,
+18,Male,Others,3rd,3000-3999,No,Yes,Online Course,,No
+23,Male,Others,4th,3000-3999,Yes,Yes,YouTube,Any,Yes
+22,Male,B.Com,3rd,5000-5999,No,No,Online Course,Online,Yes
+20,Female,Others,4th,8000-8999,Yes,No,None,,No
+22,Male,B.Com,3rd,7000-7999,Yes,No,Through Parents,Any,
+18,Male,BTech,4th,1000-1999,No,Yes,None,Any,No
+21,Male,Masters,3rd,6000-6999,No,No,None,Any,No
+19,Male,Others,4th,,No,No,Online Course,Any,No
+23,Male,BA,2nd,3000-3999,No,Yes,None,Offline,No
+20,Male,B.Com,1st,,No,Yes,Online Course,Offline,No
+19,Male,BA,2nd,4000-4999,No,Yes,None,Offline,No
+20,Female,B.Com,3rd,5000-5999,No,Yes,Through Parents,Any,Yes
+18,Male,B.Com,3rd,3000-3999,Yes,Yes,None,Offline,No
+23,Female,B.Com,4th,4000-4999,No,No,None,Offline,Yes
+19,Male,BTech,2nd,2000-2999,Yes,Yes,Online Course,Online,No
+24,Male,BTech,2nd,,No,No,Online Course,Any,Yes
+20,Female,BTech,3rd,1000-1999,No,No,None,Any,No
+24,Male,B.Com,2nd,9000-10000,No,No,Through Parents,Any,No
+23,Male,Masters,1st,5000-5999,No,No,Through Parents,Offline,No
+23,Male,Others,3rd,1000-1999,Yes,Yes,YouTube,,Yes
+24,Male,Others,2nd,8000-8999,Yes,No,Through Parents,Any,No
+18,Female,BA,1st,8000-8999,No,No,None,Any,No
+21,Female,Others,1st,3000-3999,No,No,YouTube,Offline,No
+21,Female,Others,2nd,8000-8999,Yes,No,None,Any,No
+20,Male,Masters,2nd,3000-3999,No,No,Through Parents,,
+19,Male,BA,3rd,5000-5999,Yes,No,Online Course,Online,Yes
+19,Female,Masters,3rd,,No,Yes,None,Offline,No
+24,Male,BTech,1st,4000-4999,No,Yes,Through Parents,,No
+22,Male,BTech,3rd,1000-1999,No,Yes,Online Course,Offline,No
+21,Male,Masters,3rd,7000-7999,No,No,Through Parents,Any,No
+23,Male,Masters,4th,6000-6999,No,No,None,Any,No
+19,Female,BA,1st,,Yes,No,Online Course,Any,No
+19,Male,B.Com,1st,7000-7999,No,No,Online Course,Any,Yes
+19,Male,Others,1st,8000-8999,No,No,Online Course,Online,No
+23,Female,BTech,2nd,3000-3999,No,Yes,Through Parents,Online,No
+22,Male,BA,4th,5000-5999,Yes,No,YouTube,Offline,No
+19,Male,BTech,2nd,1000-1999,No,No,Through Parents,Online,No
+24,Male,B.Com,2nd,2000-2999,No,Yes,YouTube,Online,No
+24,Male,BTech,2nd,,No,Yes,YouTube,Any,
+23,Male,B.Com,3rd,7000-7999,No,No,Through Parents,Online,No
+21,Male,BA,3rd,9000-10000,Yes,No,None,Any,Yes
+23,Male,Others,4th,5000-5999,Yes,Yes,YouTube,,No
+23,Female,Others,2nd,8000-8999,No,No,YouTube,Any,No
+20,Male,B.Com,2nd,,Yes,Yes,Online Course,Any,No
+24,Male,B.Com,4th,3000-3999,No,No,Through Parents,Any,No
+23,Male,Masters,3rd,3000-3999,No,Yes,YouTube,Offline,No
+23,Male,Others,4th,,No,No,Online Course,Offline,No
+23,Male,BA,3rd,1000-1999,No,No,Through Parents,Any,No
+18,Male,Masters,2nd,6000-6999,No,No,None,Any,No
+20,Female,Masters,2nd,8000-8999,No,No,YouTube,,No
+19,Male,BTech,4th,5000-5999,No,Yes,None,Offline,No
+18,Male,BA,2nd,4000-4999,No,No,Online Course,Any,No
+18,Male,BTech,2nd,4000-4999,No,Yes,None,Any,No
+19,Male,BTech,3rd,6000-6999,Yes,No,None,Any,Yes
+24,Female,Masters,1st,5000-5999,Yes,No,YouTube,Any,Yes
+21,Male,Masters,4th,3000-3999,No,No,YouTube,Any,No
+22,Male,Masters,4th,4000-4999,Yes,No,None,,Yes
+21,Male,BA,2nd,1000-1999,No,No,Online Course,Offline,No
+24,Female,B.Com,2nd,5000-5999,No,No,Through Parents,Any,Yes
+24,Female,BTech,2nd,8000-8999,No,No,Online Course,Any,No
+24,Male,BTech,1st,4000-4999,No,No,YouTube,Offline,No
+21,Male,B.Com,4th,8000-8999,No,No,YouTube,Offline,No
+21,Female,B.Com,1st,8000-8999,No,No,Online Course,Any,No

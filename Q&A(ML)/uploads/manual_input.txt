@@ -1,0 +1,14 @@
+Module	Topic
+1	Introduction to Machine Learning (machine learning career paths)
+2	Introduction to Data Science and its Applications
+3	Exploratory Data Analysis (EDA) using Pandas and NumPy
+4	Data Visualization using Matplotlib, Seaborn, and Plotly
+5	Data Engineering and Preprocessing
+6	Web Scraping
+7	Supervised Learning – Regression
+8	Supervised Learning – Classification
+9	SVM, KNN & Naive Bayes
+10	Ensemble Methods and Boosting
+11	Unsupervised Learning – Clustering
+12	Unsupervised Learning – Dimensionality Reduction
+13	Model Evaluation and Hyperparameter Tuning
