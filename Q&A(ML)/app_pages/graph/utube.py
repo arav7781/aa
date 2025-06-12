@@ -167,7 +167,7 @@ def extract_url_from_text(text):
     match = url_pattern.search(text)
     return match.group(0) if match else None
 
-@tool(parse_docstring=True)
+
 def utube_summarize_video(url: str = None, video_path: str = None, keyword: str = None) -> tuple:
     """
     Summarizes a YouTube video or a manually uploaded video by extracting its transcript and generating a summary.
